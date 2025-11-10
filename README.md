@@ -13,8 +13,6 @@ To design and develop a Library Management System that efficiently manages book 
 7. Deploy the system for real-time use.
 8. Maintain and update the system as needed.
 
-
-
 # DIAGRAMS:
 ## USECASE DIAGRAM:
 ![lib1](https://github.com/user-attachments/assets/de98aca8-f3c2-42b8-bc20-8f571ce4f17f)
@@ -26,7 +24,6 @@ To design and develop a Library Management System that efficiently manages book 
 ![activity library](https://github.com/user-attachments/assets/5bc0e122-45a9-463b-9cc8-ea9a7af185ee)
 
 ## PACKAGE DIAGRAM:
-
 ![PackageDiagramLIB](https://github.com/user-attachments/assets/44cc56fd-e265-41cf-bc1d-1fc11fa45f79)
 
 ## SEQUENCE DIAGRAM:
@@ -34,7 +31,6 @@ To design and develop a Library Management System that efficiently manages book 
 
 
 ## COMUNICATION DIAGRAM:
-
 ![CommunicationDiagramlib](https://github.com/user-attachments/assets/a38b18af-94f9-48f9-9a10-b96e60f78cae)
 
 # RESULT:
